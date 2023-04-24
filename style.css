@@ -1,0 +1,94 @@
+.dau1{
+    background-color:#8697cc;
+    width: 190px;
+    height: 50px;
+    text-align: center;
+    margin:0 auto;
+    color: white;
+    line-height: 50px;
+    
+}
+.dau2{
+    text-align: center;
+    
+}
+button-1{
+    background-color: black;
+    color: white;
+}
+.h11{
+    text-align: center;
+    font-weight: 100;
+}
+.b1{
+    color: #08aeee;
+}
+.p1{
+    text-align: center;
+    color: gray;
+}
+.p2{
+    text-align: center;
+}
+.div-mau{
+    background-color: rgb(155, 233, 233);
+    text-align: center;
+    margin:0 auto;
+    color: white;
+    line-height: 50px;
+    width: 190px;
+    height: 50px;
+}
+.p3{
+   width: 50px;
+   height: 50px;
+   line-height: 60px;
+   text-align: center;
+   border: 1px solid  rgb(155, 233, 233);
+   border-radius: 50%;
+   margin: 0 auto;
+}
+.p4{
+    color: rgb(67, 64, 64);
+}
+.div-dau{
+    background-color:#909295;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin:0 auto;
+    color: white;
+    line-height: 300px;
+}
+.chia-doi{
+    display: flex;
+    border: 1px solid black;
+}
+.lui-trai{
+    padding: 20px;
+  
+}
+.tags{
+    background-color: #68bdce;
+    width: 800px;
+    height: 800px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    line-height: 50px;
+}
+.div-bang{
+    /* text-align: center; */
+    margin: 0 auto;
+    width: 50%;
+
+}
+.span{
+    display: flex; /*dàn hàng ngang thẻ div*/
+  }
+.span p {
+    margin: 15px;
+    background-color: rgb(148, 217, 217);
+    padding: 10px 20px 10px 20px;
+    color: white;
+}
